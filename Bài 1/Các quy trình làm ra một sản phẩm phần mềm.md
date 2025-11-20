@@ -22,7 +22,7 @@ Hình dưới là tháp quản lý sản phẩm
 	Airbnb tập trung vào chỗ ở, các hoạt động, ăn, và hướng dẫn viên du lịch.
 7) Product Market-Fit (Sản phẩm thị trường cần)
 	Sản phẩm thị trường đang cần, và người dùng cảm thấy hài lòng khi sử dụng sản phẩm đó.
-8) Value Proposition ()
+8) Value Proposition (Đề xuất giá trị)
 	Đưa ra các dịch vụ mà khách hàng cần, nhằm giúp họ được sử dụng các dịch vụ tốt hơn những cái đang có. 
 	
 	Ví dụ: Airbnb tập trung vào chỗ ở (accomodation) và trải nghiệm du lịch (experiences).
