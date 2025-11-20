@@ -1,0 +1,3 @@
+Trong phát triển phần mềm, yêu cầu (requirements) là những mô tả về các điều kiện, khả năng, và tính năng mà một hệ thống phần mềm phải có để đáp ứng nhu cầu của người dùng hoặc các bên liên quan. Nói một cách đơn giản, yêu cầu là cầu nối giữa mong muốn của khách hàng và sản phẩm cuối cùng.
+
+Yêu cầu là nền tảng cho toàn bộ quá trình phát triển phần mềm. Nếu không có các yêu cầu rõ ràng và chính xác, dự án sẽ gặp rủi ro lớn vì nhóm phát triển có thể xây dựng một sản phẩm không đáp ứng được mục đích ban đầu, dẫn đến lãng phí thời gian và nguồn lực.
